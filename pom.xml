@@ -12,13 +12,12 @@
 	<name>testerelease</name>
 	<description>Demo project for Spring Boot</description>
 
-	<!-- 
 	<scm>
-		<connection>scm:git:/Users/tiagoteixeira/Downloads/log/.git</connection>
+		<connection>scm:git:https://github.com/tiagovt/testerelease.git</connection>
 		<url>http://github.com/user/project</url>
-		<developerConnection>scm:git:/Users/tiagoteixeira/Downloads/log/.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/tiagovt/testerelease.git</developerConnection>
 	</scm>
- 	-->
+ 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
