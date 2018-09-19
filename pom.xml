@@ -4,7 +4,7 @@
 
 	<groupId>br.com.testerelease</groupId>
 	<artifactId>testerelease</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>testerelease</name>
@@ -14,7 +14,7 @@
 		<connection>scm:git:https://github.com/tiagovt/testerelease.git</connection>
 		<url>http://github.com/user/project</url>
 		<developerConnection>scm:git:https://github.com/tiagovt/testerelease.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>testerelease-0.0.2</tag>
   </scm>
  	
 	<parent>
